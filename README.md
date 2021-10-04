@@ -36,3 +36,18 @@
   * Following Daily Routine and Resolutions
 * **My Productive Time**
   * Early morning at 5am
+
+### Lies
+
+* Follow your passion
+  * Improving and getting better and better
+  * Creativity, Control and Impact
+  * craftman’s mindset
+* You can Avoid Risk
+  * Enjoy taking Risks
+  * When you feel those **butterflies when you are nervous**, know that you are **expanding your boundaries**
+* Trust this one person
+  * Find various teachers and opinions, unique perspectives, combine different sources
+  * **Don't just follow Stephen or Andrei, find and combine best practices from everyone**
+* 10,000 Hour Rule
+  * Work Smart and not Hard
