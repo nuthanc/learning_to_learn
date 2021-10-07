@@ -51,3 +51,18 @@
   * **Don't just follow Stephen or Andrei, find and combine best practices from everyone**
 * 10,000 Hour Rule
   * Work Smart and not Hard
+
+### Pillars
+
+* Everything is a Game
+  * Growth mindset that everything is trainable
+  * I'm not smart enough to do this yet
+* **Feynman Technique**
+  * Explain it in such a basic level that even a Child can understand
+* **Trunk Based Knowledge**
+  * First Principles: https://fs.blog/2018/04/first-principles/
+    * Break down complicated problems into basic elements and then reassemble them from the ground up
+    * Ask Questions like Why, When, How to multiple levels
+* Efficiency Trumps Grit
+  * Manage your time and energy, be efficient, instead of hustling all the time.
+  * Use the right strategies to get ahead

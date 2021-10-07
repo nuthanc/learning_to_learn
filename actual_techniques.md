@@ -4,3 +4,5 @@
 * Learn in Chunks
 * Learn in such a way it sticks for long time
 * Be Curious
+* Feynman Technique: Explain in simple words
+* Trunk Based Knowledge: Break down things into basic and reassemble them from ground up(Bottom up approach)
