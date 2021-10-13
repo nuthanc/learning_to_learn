@@ -58,7 +58,7 @@
   * Growth mindset that everything is trainable
   * I'm not smart enough to do this yet
 * **Feynman Technique**
-  * Explain it in such a basic level that even a Child can understand
+  * Explain it in such a basic level that even a Child can understand(This helps in Recalling)
 * **Trunk Based Knowledge**
   * First Principles: https://fs.blog/2018/04/first-principles/
     * Break down complicated problems into basic elements and then reassemble them from the ground up
@@ -66,3 +66,72 @@
 * Efficiency Trumps Grit
   * Manage your time and energy, be efficient, instead of hustling all the time.
   * Use the right strategies to get ahead
+
+### Science
+
+* Focus vs Diffuse Mode
+  * Focus: All our concentration on one Task(Studying for Exam)
+  * Diffused: Relaxed mode where our mind wanders(Taking a walk, Sleep)
+  * Strategy is to switch between the two
+  * Multi-tasking can make you less efficient
+* The Science of Sleep
+  * Pulling all nighters is the worst thing to do
+  * Sleep flushes out all the toxin accumulated throughout the Day
+* Brain Training
+  * Keep learning new things to make new connections(Synapses joining and forming a connection)
+  * Practise things so that the connections don't disappear and makes it stronger
+  * Physical Exercise and Day Dreaming is also Good
+* Feedback
+  * Embrace negative feedback and improve on those things
+    * From this, you'll get to know where you need to improve
+  * Initial positive feedback encourages you to do things better
+* Procrastination
+  * Start doing it even when you feel you don't have the mood
+    * Screw it, let's do it
+    * Sloppy start
+    * Small steps
+  * Later on, that negative feeling would go away
+* Long and Short term Memory
+  * Long Term: Practise and Recall, Repeat(Spaced Repetition)
+  * Short Term
+    * Make connections with existing concepts(Relations)
+    * Make weird connections with existing things like Hot Ramen for Ra(God of Sun-Egypt)
+* Active vs Passive Learning
+  * Passive: Just watching or listening
+  * Active: Engage like ask questions and put it to practice
+  * Recalling is better than Rereading or Repeating
+* Motivation
+  * Intrinsic: To have Control, Mastery and Purpose
+  * External: Money and Prize
+* Goals
+  * Take small steps to achieve the Goal
+  * https://www.ucop.edu/local-human-resources/_files/performance-appraisal/How%20to%20write%20SMART%20Goals%20v2.pdf
+  * SMART goals: specific, measurable, attainable, relevant, time-bound
+  * My Goals:
+    * Projects using React, Node and other Tech
+    * Getting better at Coding
+    * Doing well in Interviews
+  * https://nautil.us/issue/35/boundaries/not-all-practice-makes-perfect
+  * **Deliberate Practice or Purposeful practice**
+    * I just played it(Usual Practice) vs
+    * Play the piece all the way through at the proper speed without a mistake three times in a row(Purposeful Practice)
+    * Needs *feedback* (Success or Failure, Wrong or Correct, Right way or Wrong way)
+    * Push yourself *beyond your comfort zone*
+      * come at it from a different direction
+    * Set SMART goals
+* Don't be busy all the time
+  * Take time to relax, as this is better for the Brain
+* Learning in Chunks
+  * Top Down and Bottom Up approach: Connect between them(Relation between Keywords or most basic thing)
+* Problem Solving
+  * Some in Focussed and some in Diffused mode of thinking
+* Spaced Repetition
+  * Spread out practice
+* Habits are Energy Savers
+  * Form habits that will help you
+    * Waking early
+    * Plan for the next day in the previous night
+* Be Adventurous
+  * Treat the world like when you were a child and Curious about everything
+* Have an Endpoint: Plan your Finishing Time
+* Be Bored: Boredom helps and strengthens our Brain via Diffused mode of thinking
