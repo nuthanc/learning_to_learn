@@ -135,3 +135,30 @@
   * Treat the world like when you were a child and Curious about everything
 * Have an Endpoint: Plan your Finishing Time
 * Be Bored: Boredom helps and strengthens our Brain via Diffused mode of thinking
+
+### Techniques
+
+* Pomodoro Technique
+  * 25 min: Focussed mode
+  * 5 min: Diffused mode
+  * Best way to get rid of Procrastination
+  * Start off with the most disliked or hardest task first
+* Chunk the Subject
+  * Divide and Conquer: Split the topic into smaller chunks and finally put it back together to get the whole picture
+  * Example: Duolingo
+  * 1 Page summary of everything you need to learn
+* Spaced Repetition
+  * Spread the learning over multiple days
+  * Recall and Retrieving information strengthens the Neural pathway
+  * Anki is a popular flash card
+* Deliberate Practice
+  * Doing things that are Hard(Pushes our limit)
+  * What's the +1 of this task
+  * Immediate feedback: Right or Wrong
+  * Measure it and write it down
+* Create a Roadmap
+  * Plan ahead and note it down
+  * Learn about the industry, others reviews and do Research
+  * Autonomy(Self Drive), Mastery and Purpose
+  * Resources: coggle.it and miro.com
+  * https://zerotomastery.io/blog/learn-to-code-in-2020-get-hired-and-have-fun-along-the-way/
