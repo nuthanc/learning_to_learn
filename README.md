@@ -14,16 +14,19 @@
 ### Principles
 
 * Don't learn just to clear Interviews
-* **Learn in such a way it sticks for long time and will be useful to you**
+* Right mindset: **Learn in such a way it sticks for long time and will be useful to you**
 * Understand the lessons to **benefit you in the long run**
 * Lesson to Unlearn: http://paulgraham.com/lesson.html
 * **Drive and Persistence**
+  * No one should force you
 * Need to work hard
-* Make mistakes and learn from it and don't give up
+* **Make mistakes and learn from it and don't give up**
 * Dip: Know when to quit, make a smart choice(not everyone can become an Olympic athlete)
 * Compound Learning: **Learn in Chunks**(small learning sessions each day, rather than cramming it in one day)
 * **Use Failures as a Feedback loop**
 * **Pareto principle**(80/20 rule): Eliminate non-essential and focus on the core 20%
+  * Take input from user and Print stars
+  * You can go and learn the relevant things: 
 * **Be Curious, Value Learning and Uniquely combine your Skills**
 * Learning as a **Choice and not a Chore**
 * **Happiness Factors**
@@ -64,6 +67,7 @@
     * Break down complicated problems into basic elements and then reassemble them from the ground up
     * Ask Questions like Why, When, How to multiple levels
 * Efficiency Trumps Grit
+  * Woodcutter analogy
   * Manage your time and energy, be efficient, instead of hustling all the time.
   * Use the right strategies to get ahead
 
